@@ -1,0 +1,12 @@
+zglosz	zg³oszenie pracy geodezyjnej
+mapaw	Mapa wywiadu terenowego
+szkicb	Szkic pomiaru budynków
+szkici	Szkice inwentaryzacji
+szkics	Szkice pomiaru syt-wys
+dzpom	Dzienniki pomiarowe
+spr	sprawozdanie techniczne
+wykzm	wykaz zmian gruntowych
+dzniw	Dziennik niwelacji
+inne	Inne dokumenty
+reszta	nie pasujace
+

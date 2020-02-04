@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\PDF_try\PDF_try\bin\Debug\PDF_try.exe.config
+C:\Users\Dell\Desktop\PDF_try\PDF_try\bin\Debug\PDF_try.exe
+C:\Users\Dell\Desktop\PDF_try\PDF_try\bin\Debug\PDF_try.pdb
+C:\Users\Dell\Desktop\PDF_try\PDF_try\obj\Debug\PDF_try._TychyDocs.resources
+C:\Users\Dell\Desktop\PDF_try\PDF_try\obj\Debug\PDF_try.Properties.Resources.resources
+C:\Users\Dell\Desktop\PDF_try\PDF_try\obj\Debug\PDF_try.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\PDF_try\PDF_try\obj\Debug\PDF_try.exe
+C:\Users\Dell\Desktop\PDF_try\PDF_try\obj\Debug\PDF_try.pdb
+C:\Users\Dell\Desktop\PDF_try\PDF_try\obj\Debug\PDF_try.csprojResolveAssemblyReference.cache

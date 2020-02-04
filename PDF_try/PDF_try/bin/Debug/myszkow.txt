@@ -1,0 +1,7 @@
+Sprawozdanie techniczne	cz1
+Protokol	cz2
+Szkice	cz3
+Raporty	cz4
+Inne	cz5
+!reszta	nie pasujace
+

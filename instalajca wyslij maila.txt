@@ -1,0 +1,6 @@
+installutil /i "C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe"
+
+installutil /u "C:\Users\Dell\Documents\Visual Studio 2017\Projects\WindowsService1\WindowsService1\bin\Debug\WyslijMaila.exe"
+
+ C:\Windows\Microsoft.NET\Framework\v4.0.30319
+installutil.exe "C:\Services\myservice.exe"

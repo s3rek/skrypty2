@@ -1,0 +1,1 @@
+﻿UPDATE ogrody SET id_miasta=gminy.id FROM gminy WHERE ogrody.miasto=gminy.nazwa 

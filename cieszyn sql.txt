@@ -1,0 +1,26 @@
+UPDATE "z" SET "czy_tekst"=TRUE WHERE  "z"."ID" in (SELECT "z"."ID"
+FROM "z", "t" WHERE "z"."fake_num"="t"."tekst_num")
+
+SELECT *
+INTO "zestawienie3"
+FROM "z"
+LEFT OUTER JOIN "teczki"
+ON "teczki"."num"="z"."IdentyfikatorMateria³u"
+
+UPDATE "z3" SET "z3"."typ"='zdj' WHERE  "z3"."ID" in (SELECT "z3"."ID"
+FROM "zdj", "z3" WHERE "z3"."IdentyfikatorMateria³u"="zdj"."nazwa")
+
+
+SELECT *
+INTO "z3"
+FROM "z"
+LEFT OUTER JOIN "typ"
+ON "typ"."nazwa"="z"."IdentyfikatorMateria³u"
+
+UPDATE "z4" SET "z4"."typ"='GESUT' WHERE  "z4"."ID" in (SELECT "z4"."ID"
+FROM "pop", "z4" WHERE "z4"."IdentyfikatorMateria³u"="pop"."nazwa" AND "pop"."typ"='GESUT')
+
+
+SELECT "Sekcja", "Teczka", "Iloœæ operatów", "Firma", "Skan, czy zdjcie", "Osoba", "skan (s) czy zdjêcie (z)" Into "z3"
+FROM "Table1" Left outer join "Table2"
+ON "Table2"."Nr teczki"="Table1"."Teczka" AND "Table2"."Sekcja"="Table1"."Sekcja"
